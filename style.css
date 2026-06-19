@@ -1,0 +1,18 @@
+.presHidden{
+    display: none;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.border{
+    border: 2px solid yellow;
+}
+.shadow{
+    box-shadow: 2px 2px 2px chartreuse;
+}
